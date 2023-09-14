@@ -1,0 +1,1 @@
+{"lastAugReset":1694376548448,"lastNodeReset":1694122711419,"currentNode":3,"ownedAugs":{},"ownedSF":{}}
